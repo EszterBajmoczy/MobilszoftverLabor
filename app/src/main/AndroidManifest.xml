@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EonVis">
         <activity
-            android:name=".ui.dayDetails.DayDetailsActivity"
+            android:name=".ui.details.DetailsActivity"
             android:exported="false" />
         <activity
             android:name=".ui.main.MainActivity"
