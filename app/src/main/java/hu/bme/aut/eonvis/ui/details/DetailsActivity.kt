@@ -7,6 +7,6 @@ import hu.bme.aut.eonvis.R
 class DetailsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_day_details)
+        setContentView(R.layout.activity_details)
     }
 }
